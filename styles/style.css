@@ -1,0 +1,337 @@
+.sec_1 {
+    padding-top: 57px;
+    margin-bottom: 51px;
+}
+.container {
+    max-width: 1380px;
+    width: 100%;
+    margin: 0 auto;
+    margin-left: 13%;
+}
+.info_box {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 350px;
+    margin-bottom: 57px;
+}
+.info_box h5 {
+    color: #5863E3;
+    font-size: 17px;
+    font-weight: 700;
+    margin-bottom: 18px;
+}
+.info_box h2 {
+    color: #000;
+    font-size: 49px;
+    font-weight: 400;
+}
+.forms_box {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+textarea {
+    max-width: 800px;
+    width: 100%;
+    height: 298px; 
+    resize: none;
+    background-color: #F8F8F8;
+    padding: 22px;
+    border: 2px solid rgba(212, 211, 211, 0.30);
+    background: #F8F8F8;    
+    margin-right: 20px;
+}
+.input_box {
+    max-width: 350px;
+    height: 240px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-right: 210px;
+}
+.input_box input {
+    width: 370px;
+    height: 59px;
+    padding: 19px 21px;
+    border: 2px solid rgba(212, 211, 211, 0.30);
+    background: #F8F8F8; 
+    cursor: pointer;
+    
+}
+.submit input {
+    width: 350px;
+    height: 59px;
+    background: #5863E3; 
+    cursor: pointer;
+    margin-right: 210px;
+    color: #FBFBFF;
+    font-size: 14px; 
+    margin-top: 240px;
+    margin-left: -560px;
+    border: none;
+}
+.sec_2 {
+    display: flex;
+}
+.card_container {
+    max-width: 1380px;
+    width: 100%;
+    margin: 0 auto;
+    margin-left: 13%;
+    display: flex;
+    justify-content: space-between;
+}
+.email_box {
+    margin-left: 110px;
+}
+.logo_box {
+    position: relative;
+    width: 68px;
+    height: 68px;
+    border-radius: 68px;
+    background: #5968F4;
+}
+.mail_icon {
+    position: absolute;
+    width: 41px;
+    height: 29px;
+    top: 30%;
+    left: 20%;
+}
+.email_address h1 {
+    color: #4E4D54;
+    font-size: 20px;
+    font-weight: 700;
+    display: flex;
+    margin-left: 9px;
+    margin-top: 16px;
+}
+.email_address h5 {
+    color: #99999A;
+    font-size: 15px;
+    font-weight: 700;
+    margin-left: -45px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+.email_address h6 {
+    color: #99999A;
+    font-size: 15px;
+    font-weight: 700;
+    margin-left: -61px;
+}
+.phone_box {
+    margin-left: 20px;
+}
+.phone_icon {
+    position: absolute;
+    width: 51px;
+    height: 41px;
+    top: 20%;
+    left: 13%;
+}
+.number h1{
+    color: #4E4D54;
+    font-size: 20px;
+    font-weight: 700;
+    display: flex;
+    margin-left: 9px;
+    margin-top: 16px;
+}
+.number h5 {
+    color: #99999A;
+    font-size: 15px;
+    font-weight: 700;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-left: -18px;
+}
+.number h6 {
+    color: #99999A;
+    font-size: 15px;
+    font-weight: 700;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-left: -18px;
+}
+.location_box {
+    margin-left: -90px;
+}
+.location_icon {
+    position: absolute;
+    width: 23px;
+    height: 38px;
+    top: 22%;
+    left: 32%;
+}
+.address h1 {
+    color: #4E4D54;
+    font-size: 20px;
+    font-weight: 700;
+    display: flex;
+    margin-left: -5px;
+    margin-top: 16px;
+}
+.address h5 {
+    color: #99999A;
+    font-size: 15px;
+    font-weight: 700;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-left: -40px;
+}
+.address h6 {
+    color: #99999A;
+    font-size: 15px;
+    font-weight: 700;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-left: -53px;
+}
+.sec_3 {
+    max-width: 1380px;
+    width: 100%;
+    margin: 0 auto;
+    margin-left: 13%;
+    padding-top: 74px;
+
+}
+.info_boxx {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 500px;
+    margin-bottom: 57px;
+}
+.info_boxx h5 {
+    color: #5863E3;
+    font-size: 17px;
+    font-weight: 700;
+    margin-bottom: 8px;
+}
+.info_boxx h2 {
+    color: #000;
+    font-size: 49px;
+    font-weight: 400;
+}
+.card_content {
+    display: flex;
+    justify-content: space-around;
+
+}
+.footer {
+    width: 100%;
+    height: 372px;
+    background: #000;
+    margin-top: 39px;
+}
+.footer h1 {
+    color: #FFF;
+    font-size: 26px;
+    font-weight: 700;
+    padding: 63px 143px;
+}
+.footer p {
+    color: #99999A;
+    font-size: 17px;
+    font-weight: 700;
+    width: 260px;
+    margin-left: 143px;
+    margin-top: -40px;
+    margin-bottom: 27px;
+}
+.footer img {
+    margin-left: 7px;
+}
+.logos {
+    margin-left: 132px;
+    
+}
+.card_1 ul {
+    margin-left: 700px;
+    margin-top:  -180px;
+}
+.card_1 span li {
+    margin-top: 40px;
+    color: #FFF;
+    font-size: 21px;
+    font-weight: 400;
+    margin-bottom: 30px;
+    margin-top: -194px;
+}
+
+.card_1 li {
+    color: #5863E3;
+    font-size: 17px;
+    font-weight: 400;
+    margin-top: 9px;
+}
+.card_2 ul {
+    margin-left: 970px;
+    margin-top:  50px;
+}
+.card_2 span li {
+    margin-top: 40px;
+    color: #FFF;
+    font-size: 21px;
+    font-weight: 400;
+    margin-bottom: 31px;
+    margin-top: -197px;
+}
+.card_2 li {
+    color: #5863E3;
+    font-size: 17px;
+    font-weight: 400;
+    margin-top: 9px;
+}
+.contact_box h1 {
+   margin-top: -210px;
+   margin-bottom: 210px;
+   margin-left: 1060px;
+   color: #FFF;
+    font-size: 21px;
+    font-weight: 400;
+}
+.card_3 {
+    margin-left: 1204px;
+    margin-top: -240px;
+}
+.card3_content {
+    display: flex;
+    margin-top: 19px;
+}
+.card3_content h3 {
+    display: flex;
+    color: #FFF;
+    font-weight: 400;
+    margin-left: 13px;
+}
+.card3_content h4 {
+    display: flex;
+    color: #FFF;
+    font-weight: 400;
+    margin-left: 9px;
+}
+.card3_content h5 {
+    display: flex;
+    color: #FFF;
+    font-weight: 400;
+    margin-left: 22px;
+}
+.card3_conteent {
+    display: flex;
+    margin-top: 19px;
+}
+.card3_conteent h5 {
+    display: flex;
+    color: #FFF;
+    font-weight: 400;
+    margin-left: 22px;
+}
+.card3_conteent img {
+    margin-left: 11px;
+}
